@@ -1,1 +1,1 @@
-# two-clusterings-to-capture-basketball-player-s-shooting-tendencies
+# two-clusterings-to-capture-basketball-players-shooting-tendencies
