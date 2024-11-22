@@ -1,6 +1,6 @@
 # Codes for "Two clusterings to capture basketball players' shooting tendencies using tracking data: clustering of shooting styles and the shots themselves"
 
-There are Jupyter Notebooks for "Offensive Lineup Analysis in Basketball with Clustering Based on Shooting Style and Offensive Role".
+There are codes for "Two clusterings to capture basketball players' shooting tendencies using tracking data: clustering of shooting styles and the shots themselves".
 
 ## Requirements
 - Python 3.8 
